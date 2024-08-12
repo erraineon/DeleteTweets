@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeleteTweets": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
